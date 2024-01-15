@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid img {
+    width: 80px;
+    border-radius: 10px;
+}
+
+#main-images {
+    background-color: transparent;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
